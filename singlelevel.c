@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include <stdlib.h>
 #include <string.h>
+//
 struct single {
 
   char dname[10],fcnt,fname[10][10];
